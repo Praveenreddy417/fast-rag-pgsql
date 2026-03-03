@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite DB (if used locally)
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# KB files (optional, if you want them locally only)
+kb/*.txt
+kb/*.md
+
+# Coverage
+htmlcov/
+.coverage
+
+# Migrations (optional, if using Alembic)
+migrations/versions/
