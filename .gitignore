@@ -26,10 +26,6 @@ venv/
 # PyCharm
 .idea/
 
-# KB files (optional, if you want them locally only)
-kb/*.txt
-kb/*.md
-
 # Coverage
 htmlcov/
 .coverage
